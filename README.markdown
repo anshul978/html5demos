@@ -2,7 +2,7 @@
 
 A collection of HTML5 experiments I've created, now open source and on GitHub, so please go ahead and help me hack this resource in to a wealth of demos that other authors can learn from.
 
-**🚨 THIS PROJECT IS NOW RETIRED - YOU WILL FIND WORKING CODE, BUT IT IS NO LONGER LIVE OR MAINTAINED 🚨**
+ THIS PROJECT IS NOW RETIRED - YOU WILL FIND WORKING CODE, BUT IT IS NO LONGER LIVE OR MAINTAINED 
 
 ## Aim
 
